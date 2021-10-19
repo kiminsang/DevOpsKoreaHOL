@@ -14,7 +14,7 @@
 *Azure* VM, Function Apps, Containers 등 사전 지식을 따로 필요로 하지 않습니다.
 Git에 사용 방법에 대해서 알고 있다고 가정하고 실습을 진행합니다.
 
-## 설치
+## 설치 - kiminsang
 
 [Git](https://git-scm.com/downloads)를 통해 다운로드 및 설치가 가능합니다.
 
